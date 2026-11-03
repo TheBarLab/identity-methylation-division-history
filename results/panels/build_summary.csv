@@ -1,0 +1,25 @@
+panel,direction,layer,n,construction,replicates_gse197723,n_tested,n_replicated,replicates_chance,replicates_p_vs_chance,replicates_p_identity_vs_history
+fibroblast_skin,high,history,2356,target BJ+AG04449+AG09309+AG10803+NHDF-neo; comparators 20 primary non-fibroblast types,0.577736890524379,2174.0,1256.0,0.008125301291668356,0.0,0.33919557440755677
+fibroblast_skin,high,identity,10,target BJ+AG04449+AG09309+AG10803+NHDF-neo; comparators 20 primary non-fibroblast types,0.4,10.0,4.0,0.008125301291668356,8.802285038112748e-07,0.33919557440755677
+fibroblast_skin,high,mixed,163,target BJ+AG04449+AG09309+AG10803+NHDF-neo; comparators 20 primary non-fibroblast types,0.5909090909090909,154.0,91.0,0.008125301291668356,4.3283863018588635e-147,
+fibroblast_skin,low,history,5027,target BJ+AG04449+AG09309+AG10803+NHDF-neo; comparators 20 primary non-fibroblast types,0.11848240779991522,4718.0,559.0,0.008271723410869477,0.0,4.879479866773303e-135
+fibroblast_skin,low,identity,352,target BJ+AG04449+AG09309+AG10803+NHDF-neo; comparators 20 primary non-fibroblast types,0.75,320.0,240.0,0.008271723410869477,0.0,4.879479866773303e-135
+fibroblast_skin,low,mixed,1242,target BJ+AG04449+AG09309+AG10803+NHDF-neo; comparators 20 primary non-fibroblast types,0.6251082251082251,1155.0,722.0,0.008271723410869477,0.0,
+fibroblast_lung,high,history,2225,target IMR90+AG04450; comparators 20 primary non-fibroblast types,0.12788461538461537,2080.0,266.0,0.010460608568164852,5.6670944681825125e-192,0.01621662496352994
+fibroblast_lung,high,identity,51,target IMR90+AG04450; comparators 20 primary non-fibroblast types,0.02,50.0,1.0,0.010460608568164852,0.4089089810459301,0.01621662496352994
+fibroblast_lung,high,mixed,303,target IMR90+AG04450; comparators 20 primary non-fibroblast types,0.1,290.0,29.0,0.010460608568164852,1.7822224084747485e-19,
+fibroblast_lung,low,history,4896,target IMR90+AG04450; comparators 20 primary non-fibroblast types,0.010893246187363835,4590.0,50.0,0.011465744430153177,0.7814849431144872,1.596328260520532e-06
+fibroblast_lung,low,identity,184,target IMR90+AG04450; comparators 20 primary non-fibroblast types,0.06936416184971098,173.0,12.0,0.011465744430153177,9.542812602750334e-07,1.596328260520532e-06
+fibroblast_lung,low,mixed,601,target IMR90+AG04450; comparators 20 primary non-fibroblast types,0.048736462093862815,554.0,27.0,0.011465744430153177,6.736140704144667e-10,
+keratinocyte,high,history,3995,"GSE197723 keratinocytes vs 21 types (19 primary GSE40699 + fibroblast + HUVEC, each averaged over both batches); must also clear same-batch fibroblast/HUVEC",,,,,,
+keratinocyte,high,identity,365,"GSE197723 keratinocytes vs 21 types (19 primary GSE40699 + fibroblast + HUVEC, each averaged over both batches); must also clear same-batch fibroblast/HUVEC",,,,,,
+keratinocyte,high,mixed,908,"GSE197723 keratinocytes vs 21 types (19 primary GSE40699 + fibroblast + HUVEC, each averaged over both batches); must also clear same-batch fibroblast/HUVEC",,,,,,
+keratinocyte,low,history,1516,"GSE197723 keratinocytes vs 21 types (19 primary GSE40699 + fibroblast + HUVEC, each averaged over both batches); must also clear same-batch fibroblast/HUVEC",,,,,,
+keratinocyte,low,identity,1280,"GSE197723 keratinocytes vs 21 types (19 primary GSE40699 + fibroblast + HUVEC, each averaged over both batches); must also clear same-batch fibroblast/HUVEC",,,,,,
+keratinocyte,low,mixed,3080,"GSE197723 keratinocytes vs 21 types (19 primary GSE40699 + fibroblast + HUVEC, each averaged over both batches); must also clear same-batch fibroblast/HUVEC",,,,,,
+endothelial,high,history,3568,ENCODE HUVEC vs 21 types (19 primary GSE40699 + fibroblast averaged over both batches + keratinocyte); must replicate in GSE197723 HUVEC,,,,,,
+endothelial,high,identity,4,ENCODE HUVEC vs 21 types (19 primary GSE40699 + fibroblast averaged over both batches + keratinocyte); must replicate in GSE197723 HUVEC,,,,,,
+endothelial,high,mixed,281,ENCODE HUVEC vs 21 types (19 primary GSE40699 + fibroblast averaged over both batches + keratinocyte); must replicate in GSE197723 HUVEC,,,,,,
+endothelial,low,history,1251,ENCODE HUVEC vs 21 types (19 primary GSE40699 + fibroblast averaged over both batches + keratinocyte); must replicate in GSE197723 HUVEC,,,,,,
+endothelial,low,identity,216,ENCODE HUVEC vs 21 types (19 primary GSE40699 + fibroblast averaged over both batches + keratinocyte); must replicate in GSE197723 HUVEC,,,,,,
+endothelial,low,mixed,998,ENCODE HUVEC vs 21 types (19 primary GSE40699 + fibroblast averaged over both batches + keratinocyte); must replicate in GSE197723 HUVEC,,,,,,

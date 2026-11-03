@@ -1,0 +1,65 @@
+panel,direction,sample,arm,pdl,excess
+fibroblast:all,low,106.0,untreated,3.2,-0.07587102055549622
+fibroblast:all,low,107.0,untreated,23.9,-0.0020398497581481934
+fibroblast:all,low,108.0,untreated,43.9,0.03164365887641907
+fibroblast:all,low,109.0,untreated,54.1,0.04578086733818054
+fibroblast:all,low,110.0,chronic radiation,2.9,-0.07256579399108887
+fibroblast:all,low,111.0,chronic radiation,21.8,0.003804326057434082
+fibroblast:all,low,112.0,chronic radiation,39.3,0.04206603765487671
+fibroblast:all,low,113.0,chronic radiation,49.4,0.049035072326660156
+fibroblast:all,high,106.0,untreated,3.2,-0.10234245657920837
+fibroblast:all,high,107.0,untreated,23.9,-0.006891369819641113
+fibroblast:all,high,108.0,untreated,43.9,0.04075729846954346
+fibroblast:all,high,109.0,untreated,54.1,0.06854492425918579
+fibroblast:all,high,110.0,chronic radiation,2.9,-0.0978563129901886
+fibroblast:all,high,111.0,chronic radiation,21.8,-0.006158888339996338
+fibroblast:all,high,112.0,chronic radiation,39.3,0.04308074712753296
+fibroblast:all,high,113.0,chronic radiation,49.4,0.060767173767089844
+fibroblast:history,low,106.0,untreated,3.2,-0.10933789610862732
+fibroblast:history,low,107.0,untreated,23.9,-0.002627938985824585
+fibroblast:history,low,108.0,untreated,43.9,0.04564365744590759
+fibroblast:history,low,109.0,untreated,54.1,0.06619051098823547
+fibroblast:history,low,110.0,chronic radiation,2.9,-0.10449624061584473
+fibroblast:history,low,111.0,chronic radiation,21.8,0.0030706822872161865
+fibroblast:history,low,112.0,chronic radiation,39.3,0.05551457405090332
+fibroblast:history,low,113.0,chronic radiation,49.4,0.0658312439918518
+fibroblast:history,high,106.0,untreated,3.2,-0.10388129949569702
+fibroblast:history,high,107.0,untreated,23.9,-0.0069388747215271
+fibroblast:history,high,108.0,untreated,43.9,0.04126322269439697
+fibroblast:history,high,109.0,untreated,54.1,0.06994873285293579
+fibroblast:history,high,110.0,chronic radiation,2.9,-0.09888109564781189
+fibroblast:history,high,111.0,chronic radiation,21.8,-0.006425440311431885
+fibroblast:history,high,112.0,chronic radiation,39.3,0.04362291097640991
+fibroblast:history,high,113.0,chronic radiation,49.4,0.06109023094177246
+fibroblast:identity,low,106.0,untreated,3.2,0.06257015466690063
+fibroblast:identity,low,107.0,untreated,23.9,0.0036578774452209473
+fibroblast:identity,low,108.0,untreated,43.9,-0.027087688446044922
+fibroblast:identity,low,109.0,untreated,54.1,-0.04182368516921997
+fibroblast:identity,low,110.0,chronic radiation,2.9,0.0600990355014801
+fibroblast:identity,low,111.0,chronic radiation,21.8,0.010701984167098999
+fibroblast:identity,low,112.0,chronic radiation,39.3,-0.014517396688461304
+fibroblast:identity,low,113.0,chronic radiation,49.4,-0.02180701494216919
+fibroblast:identity,high,106.0,untreated,3.2,-0.048346370458602905
+fibroblast:identity,high,107.0,untreated,23.9,0.003444880247116089
+fibroblast:identity,high,108.0,untreated,43.9,0.02069905400276184
+fibroblast:identity,high,109.0,untreated,54.1,0.01732119917869568
+fibroblast:identity,high,110.0,chronic radiation,2.9,-0.050850898027420044
+fibroblast:identity,high,111.0,chronic radiation,21.8,0.013608753681182861
+fibroblast:identity,high,112.0,chronic radiation,39.3,0.04917082190513611
+fibroblast:identity,high,113.0,chronic radiation,49.4,0.06894353032112122
+fibroblast:mixed,low,106.0,untreated,3.2,0.02191975712776184
+fibroblast:mixed,low,107.0,untreated,23.9,-0.0009174048900604248
+fibroblast:mixed,low,108.0,untreated,43.9,-0.008501410484313965
+fibroblast:mixed,low,109.0,untreated,54.1,-0.01332932710647583
+fibroblast:mixed,low,110.0,chronic radiation,2.9,0.021039128303527832
+fibroblast:mixed,low,111.0,chronic radiation,21.8,0.004854828119277954
+fibroblast:mixed,low,112.0,chronic radiation,39.3,0.0036236345767974854
+fibroblast:mixed,low,113.0,chronic radiation,49.4,0.003227800130844116
+fibroblast:mixed,high,106.0,untreated,3.2,-0.07882237434387207
+fibroblast:mixed,high,107.0,untreated,23.9,-0.0022887587547302246
+fibroblast:mixed,high,108.0,untreated,43.9,0.032921403646469116
+fibroblast:mixed,high,109.0,untreated,54.1,0.04768940806388855
+fibroblast:mixed,high,110.0,chronic radiation,2.9,-0.07585293054580688
+fibroblast:mixed,high,111.0,chronic radiation,21.8,-0.002526909112930298
+fibroblast:mixed,high,112.0,chronic radiation,39.3,0.03426000475883484
+fibroblast:mixed,high,113.0,chronic radiation,49.4,0.054571568965911865

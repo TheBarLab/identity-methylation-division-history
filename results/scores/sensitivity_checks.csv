@@ -1,0 +1,16 @@
+check,contrast,layer,n,frac_lost,p
+"progeria, four age-matched controls",HGPS vs control,identity,9 vs 4,0.025997260294136473,0.9398601398601399
+"progeria, four age-matched controls",HGPS vs control,history,9 vs 4,0.20965250500034094,0.005594405594405594
+"progeria, history minus identity",HGPS vs control,history - identity,9 vs 6,0.09825412882757259,0.3276723276723276
+"progeria, history minus identity, age-matched controls",HGPS vs control,history - identity,9 vs 4,0.18365524470620445,0.14825174825174825
+GSM3084195 excluded,irradiated clones (donor 1),identity,34 vs 11,-0.1125297068453905,0.0012152310883834126
+GSM3084195 as control,irradiated clones (donor 1),identity,34 vs 12,-0.10866446168484108,0.000582465934490534
+GSM3084195 excluded,irradiated clones (donor 1),history,34 vs 11,-0.16595602002747184,8.412334573748142e-07
+GSM3084195 as control,irradiated clones (donor 1),history,34 vs 12,-0.15917856602653668,3.567766729225687e-07
+GSM3084195 excluded,"irradiated clones (donor 1), excl. 2 outlier controls",identity,34 vs 9,-0.050342563456427895,0.006301851379877213
+GSM3084195 as control,"irradiated clones (donor 1), excl. 2 outlier controls",identity,34 vs 10,-0.05292675048857028,0.002858144562170311
+GSM3084195 excluded,"irradiated clones (donor 1), excl. 2 outlier controls",history,34 vs 9,-0.11340665033017253,5.295020484224084e-06
+GSM3084195 as control,"irradiated clones (donor 1), excl. 2 outlier controls",history,34 vs 10,-0.1105289971717571,2.06507500429689e-06
+one value per chip,Replication vs control,identity,12,0.2430234371657053,0.00048828125
+one value per chip,X-ray vs control,identity,12,-0.004557803585870279,0.0341796875
+one value per chip,RAS vs control,identity,12,0.05353388201774017,0.00048828125

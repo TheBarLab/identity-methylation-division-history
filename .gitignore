@@ -1,0 +1,15 @@
+# Raw data; `data` is a local symlink or directory holding the GEO downloads
+/data
+
+# Step 0 environment
+.venv-methylprep/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editors / local config
+.idea/
+.vscode/
+*.swp
+.DS_Store

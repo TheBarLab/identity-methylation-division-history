@@ -1,0 +1,11 @@
+# Analysis steps 1-7. Versions are the ones the published results were produced with.
+numpy==2.0.2
+pandas==2.3.3
+scipy==1.13.1
+matplotlib==3.9.4
+
+# Step 0 only (GSE40699 IDATs -> beta table) and incompatible with the above:
+# methylprep 1.7.1 calls DataFrame.append, removed in pandas 2.0. Install it in a
+# separate environment:
+#   python -m venv .venv-methylprep
+#   .venv-methylprep/bin/pip install 'methylprep==1.7.1' 'pandas<2'
